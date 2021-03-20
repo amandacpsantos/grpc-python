@@ -1,6 +1,6 @@
-# kv-grpc-amanda
-kv-grpc-amanda created by GitHub Classroom
-Matrícula: 611682
+# kv-grpc-python
+Trabalho desenvolvido para a disciplina LABORATÓRIO DE DESENVOLVIMENTO DE APLICAÇÕES MÓVEIS E DISTRIBUÍDAS - Engenharia de Software - PUC Minas
+
 
 ### Pré-requisitos
 - Python 3.5 or higher
